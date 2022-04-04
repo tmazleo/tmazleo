@@ -8,9 +8,6 @@
 - 📫 Email para contato: leotomazb@icloud.com
 
 <div>
-  <a href='https://www.instagram.com/tmazleo'>
-    <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
-  </a><br>
   <a href='https://www.linkedin.com/in/leonardo-tomaz-bento-3134b020a'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
   </a><br>
