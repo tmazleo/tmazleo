@@ -1,8 +1,9 @@
-<h1>Olá, sou Leonardo Tomaz ✌️</h1>
+<h1>Eai :v: bem-vindo ao meu perfil! <p>Fique á vontade :wink: </p></h1>
+  
 
 
 
-- 🛠  Trabalho na área de produção;
+- 🛠 Trabalho na área de produção;
 - 📖 Atualmente cursando ensino superior em Analise e Desenvolvimento de Sistemas;
 - 🤝🏼 Procuro novos ciclos e experiências da área de TI;
 - 📫 Email para contato: leotomazb@icloud.com;
