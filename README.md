@@ -1,4 +1,4 @@
-<h1>Eai :v: bem-vindo ao meu perfil! <p>Fique á vontade :wink: </p></h1>
+<h1>Eai :v: bem-vindo ao meu perfil!</h1>
   
 
 
