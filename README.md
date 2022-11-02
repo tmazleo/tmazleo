@@ -6,7 +6,7 @@
 - 🛠 Trabalho na área de produção;
 - 📖 Atualmente cursando ensino superior em Analise e Desenvolvimento de Sistemas;
 - 🤝🏼 Procuro novos ciclos e experiências da área de TI;
-- 📫 Email para contato: leotomazb@icloud.com;
+- 📫 Email para contato: leotomazb@outlook.com;
 
 <div>
   <a href='https://www.linkedin.com/in/leonardo-tomaz-bento-3134b020a'>
