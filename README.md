@@ -21,7 +21,6 @@
 <div style="display: inline_block"><br>
   <h3>Main Skils: </h3>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png" />
-  <img align="center" alt="SpringBoot" height="30" width="40" src="https://icons8.com/icon/2oBx9FpXcbLa/spring-boot" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />
