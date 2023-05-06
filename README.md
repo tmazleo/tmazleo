@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9aedb5&height=120&section=header"/>
 <h1>Hello! My name is Leonardo Tomaz Bento</h1>
-<h2></h2>
+<h2>I'm a developer and technology student</h2>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tmazleo&show_icons=true&count_private=true&hide_border=true&title_color=9aedb5&icon_color=ab9a89&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Tomaz github stats" /> 
@@ -27,4 +27,7 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+<div style="display: inline_block">
+  <h3>Other skills: </h3>
 </div>
