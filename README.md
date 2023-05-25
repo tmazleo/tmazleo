@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/leonardotomazb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tmazleo&bg_color=0d11178&color=6fb3b0&line=0b5351&point=71e3ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tmazleo&bg_color=0d1313&color=12d8ce&line=7deeeb&point=1a6666&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: inline_block"><br>
   <h3>Main Skils: </h3>
